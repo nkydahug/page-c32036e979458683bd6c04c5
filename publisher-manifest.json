@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4a64fd9d801a5635d697faa6",
+  "owner": "nkydahug",
+  "repo": "page-c32036e979458683bd6c04c5",
+  "title": "闪连机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c32036e979458683bd6c04c5",
+      "a": "闪连机场",
+      "b": "机场官网线路发布页",
+      "entity": "闪连机场",
+      "brand": "闪连机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e8d92b2183c92db3cc79020d1f720dce5e8484a87ceb04128e6336a3057316aa",
+      "content": {
+        "primary_entity": "闪连机场",
+        "keyword1": "闪连机场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，闪连机场提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 起，年付更划算。基础版含 100GB 流量与 3 台设备；旗舰版含 300GB 流量、5 台设备并针对游戏和流媒体优化；团队版含 1000GB 流量与 20 台设备，适合多设备或小型团队使用。选择后按客户端说明导入订阅即可。",
+          "AI_HERO_SUBTITLE": "多设备加速订阅，按需选择套餐",
+          "AI_HERO_INTRO": "闪连机场面向需要海外网络加速的用户，提供从基础到团队的多档订阅方案。不同套餐在月流量、同时在线设备数量和节点线路上有差异，可结合自己的设备数量和使用强度来选。",
+          "AI_VISUAL_TITLE": "闪连机场订阅选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 起",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURES_INTRO": "闪连机场按流量和在线设备数划分档位，方便按实际需求挑选。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可达 20 台，按常用设备数量匹配。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档位",
+          "AI_FEATURE_TEXT_2": "100GB 适合轻度浏览，300GB 兼顾流媒体与游戏，1000GB 适合多设备重度使用。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持月付和年付，年付价格更低，可按使用时长选择续费周期。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量和设备数区分。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，按客户端文档导入订阅信息即可使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，按顺序操作即可开始使用闪连机场。",
+          "AI_STEP_TITLE_1": "选择订阅",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版中挑选合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端是否满足当前套餐的设备数与线路要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的说明导入订阅信息，完成连接配置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "套餐选择、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "闪连机场不同套餐的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量、同时在线设备数和线路类型。基础版 100GB 流量，旗舰版 300GB 并含 IPLC 优化，团队版 1000GB 且支持 20 台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，相当于月付 ¥15 的十个月价格；旗舰版年付 ¥350；团队版年付 ¥850。年付适合长期使用的用户。",
+          "AI_FAQ_QUESTION_3": "一台订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "基础版允许 3 台设备在线，旗舰版 5 台，团队版 20 台。达到上限后新设备可能无法同时连接。",
+          "AI_FAQ_QUESTION_4": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_4": "当月流量用尽后连接可能受限，可以考虑升级档位或等到下个计费周期恢复。按使用强度提前选好流量更稳妥。",
+          "AI_FAQ_QUESTION_5": "如何在常用客户端上配置闪连机场订阅？",
+          "AI_FAQ_ANSWER_5": "先在设备上安装对应客户端，再按客户端文档导入订阅信息。不同系统的操作界面不同，建议参照该客户端的配置说明完成。",
+          "AI_CLOSING_TITLE": "选择合适的加速方案",
+          "AI_CLOSING_TEXT": "根据设备数与月流量需求挑选闪连机场套餐，按客户端说明完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "niwqerq.cn",
+    "host": "niwqerq.cn"
+  },
+  "file_hashes": {
+    "index.html": "c130d17d5355f23b78fa235645e3795fb647f2c3a526b2b546a5ca351b0db8a1",
+    "sitemap.xml": "4458d09768aed2edceba0a918c47e620e2655395575137402f303790778a8a00",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "48a1e32eb46259e53d6acca2d33cd3d6d1e8e09d99f0fdafac66f3653cc21f52",
+    "robots.txt": "cd728b59f5a8ea615a2badc0b28af6550e35b5627fdbde66b14c85e99a1842a9",
+    "fc987697095296ed3494ba415ef146f9.txt": "ed2d17f95e9a777c545a4298951c55ba71cdeb57604fb631ae9ea091dc40061f"
+  },
+  "revision": "9cac788f6858e1379b70b586eb2994b6946cf7ca2379153e5d1c9d150fef54b0"
+}
